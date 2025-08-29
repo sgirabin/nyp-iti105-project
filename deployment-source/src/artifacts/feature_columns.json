@@ -1,0 +1,8 @@
+{
+  "feature_columns": [
+    "Open","High","Low","Close",
+    "MA20","RSI","MACD","EMA20","BB_WIDTH","ATR","STOCH_K",
+    "LOG_VOLUME","MA_VOLUME_20","DAILY_RANGE","CLOSE_TO_OPEN_GAP"
+  ]
+}
+

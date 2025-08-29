@@ -1,0 +1,29 @@
+{
+  "model_name": "20250827-074724-final-rf",
+  "created_by": "Isak Rabin",
+  "feature_set_key": "rf",
+  "features": [
+    "Close",
+    "LOG_VOLUME",
+    "MA20",
+    "RSI",
+    "MACD",
+    "EMA20",
+    "BB_WIDTH",
+    "ATR",
+    "STOCH_K",
+    "DAILY_RANGE",
+    "CLOSE_TO_OPEN_GAP"
+  ],
+  "classes": [
+    "Down",
+    "Sideway",
+    "Up"
+  ],
+  "class_indices": [
+    0,
+    1,
+    2
+  ],
+  "random_state": 42
+}
